@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Android Appplication
 - 🌱 I’m currently learning Back-end with Spring Boot
 - 💞️ I’m looking to collaborate on my projects and learn something new
-- 📫 How to reach me web.antonio.popa@gmail.com
+- 📫 How to reach me antonio.popa.dev@gmail.com
 
 <!---
 Antonio-Lucian-Dev/Antonio-Lucian-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
